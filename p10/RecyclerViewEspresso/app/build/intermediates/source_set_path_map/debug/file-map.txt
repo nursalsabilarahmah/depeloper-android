@@ -1,0 +1,16 @@
+com.example.android.recyclerview.app-support-compat-27.1.1-0 C:\Users\ASUS\.gradle\caches\transforms-3\17b9d6d6b72535a9ea0f7eeeebb6092a\transformed\support-compat-27.1.1\res
+com.example.android.recyclerview.app-recyclerview-v7-27.1.1-1 C:\Users\ASUS\.gradle\caches\transforms-3\1b085a2bf27d8085a4f67c46c431f0c3\transformed\recyclerview-v7-27.1.1\res
+com.example.android.recyclerview.app-appcompat-v7-27.1.1-2 C:\Users\ASUS\.gradle\caches\transforms-3\248f947633a9d4e4613858c1d6a0bf47\transformed\appcompat-v7-27.1.1\res
+com.example.android.recyclerview.app-transition-27.1.1-3 C:\Users\ASUS\.gradle\caches\transforms-3\2e5fa8475fb7cd7c3d523947bdf02d83\transformed\transition-27.1.1\res
+com.example.android.recyclerview.app-support-media-compat-27.1.1-4 C:\Users\ASUS\.gradle\caches\transforms-3\be4eb3b4b7b2a747c042c3436e6235b9\transformed\support-media-compat-27.1.1\res
+com.example.android.recyclerview.app-support-core-ui-27.1.1-5 C:\Users\ASUS\.gradle\caches\transforms-3\c031cb7a2c1d869a6b98b82334412367\transformed\support-core-ui-27.1.1\res
+com.example.android.recyclerview.app-constraint-layout-1.1.3-6 C:\Users\ASUS\.gradle\caches\transforms-3\e64cbef90b41f698af4d86816b9946b8\transformed\constraint-layout-1.1.3\res
+com.example.android.recyclerview.app-design-27.1.1-7 C:\Users\ASUS\.gradle\caches\transforms-3\e7c66e9ae52bc34b0b19a67aca9d9ec5\transformed\design-27.1.1\res
+com.example.android.recyclerview.app-pngs-8 C:\Users\ASUS\AndroidStudioProjects\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\build\generated\res\pngs\debug
+com.example.android.recyclerview.app-resValues-9 C:\Users\ASUS\AndroidStudioProjects\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\build\generated\res\resValues\debug
+com.example.android.recyclerview.app-rs-10 C:\Users\ASUS\AndroidStudioProjects\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\build\generated\res\rs\debug
+com.example.android.recyclerview.app-mergeDebugResources-11 C:\Users\ASUS\AndroidStudioProjects\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.recyclerview.app-mergeDebugResources-12 C:\Users\ASUS\AndroidStudioProjects\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.recyclerview.app-merged_res-13 C:\Users\ASUS\AndroidStudioProjects\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\build\intermediates\merged_res\debug
+com.example.android.recyclerview.app-debug-14 C:\Users\ASUS\AndroidStudioProjects\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\debug\res
+com.example.android.recyclerview.app-main-15 C:\Users\ASUS\AndroidStudioProjects\android-fundamentals-apps-v2-master\RecyclerViewEspresso\app\src\main\res
